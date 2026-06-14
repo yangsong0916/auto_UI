@@ -36,7 +36,3 @@
 ### 五、运行用例
 - 运行所有用例终端下执行: <code>pytest -vs</code>
 - 或者打开testcase/test_login_register.py文件，点击左侧三角形运行单条用例
-
-### 六、哔哩哔哩上传了配套录播教程
-地址：https://www.bilibili.com/video/BV1WigMemE73/
-![](image/9.png)
